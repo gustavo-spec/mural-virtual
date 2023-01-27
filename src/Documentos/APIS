@@ -1,0 +1,19 @@
+PIP
+sudo apt-get install python-pip
+
+MySQLdb
+sudo apt-get install python-mysqldb
+
+TKinter
+sudo apt-get install python python3-tk
+
+PIL
+sudo apt-get build-dep python-imaging
+sudo apt-get install libjpeg62 libjpeg62-dev
+
+BEAUTIFUL SOUP 4
+pip install beautifulsoup4
+pip install requests
+
+PYRO 4
+sudo apt-get install pyro4
